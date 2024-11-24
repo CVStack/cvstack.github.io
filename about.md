@@ -4,7 +4,7 @@ title: Hansoo Park
 ---
 
 ## About Me
-My name is **Hansoo Park**, a Computer Vision and Deep Learning Research Engineer. I am currently currently an intern researcher at xrHuman Lab, Korea Institute of Science and Technology(KIST). I obtained bachelor’s degree from Dept. of Computer science at Chungbuk National University(https://software.cbnu.ac.kr/) and master’s degree in Artificial Intelligence at Ulsan National Institute of Science and Technology(UNIST).
+My name is **Hansoo Park**, a Computer Vision and Deep Learning Research Engineer. I am currently currently an intern researcher at xrHuman Lab, Korea Institute of Science and Technology(KIST). I obtained bachelor’s degree from Dept. of Computer science at Chungbuk National University [CBNU](https://software.cbnu.ac.kr/) and master’s degree in Artificial Intelligence at Ulsan National Institute of Science and Technology [UNIST](https://vision.unist.ac.kr/).
 
 Email: <hansuforwork@gmail.com> 
 
@@ -14,11 +14,10 @@ Email: <hansuforwork@gmail.com>
 
 ## Research Interests
 + Computer Vision and deep learning.
-+ 3D object/scene reconstruction. 
++ Multi-view 3D object/scene reconstruction. 
 + 3D human body/hand pose estimation.
-+ Multi-view geometry.
 
-<div style="margin-bottom: 30px;">
+<!-- <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
     <strong>ContactField: Implicit Field Representation for Multi-Person Interaction Geometry</strong><br>
     <strong>Hansol Lee</strong>, Tackgeun You, Hansoo Park, Woohyeon Shim, Sanghyeon Kim, Hwasup Lim, NeurIPS 2024 <a href="https://1drv.ms/b/s!AgxxptoT53MUh8lpacM5p1ZvFk7nRg?e=pOmVvd" style="text-decoration:none;">[Link]</a><br>
@@ -26,7 +25,7 @@ Email: <hansuforwork@gmail.com>
   <div style="text-align: center;">
     <img src='/images/ContactField2.gif' alt="Dynamic Appearance Demo" width="1000" style="margin-top: 15px;"/>
   </div>
-</div>
+</div> -->
 
 ## Researches
 ### International Conference
