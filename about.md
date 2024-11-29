@@ -24,7 +24,7 @@ in Under review, 2024.\\
 \[[Paper](-)\]
 <center>
   <img
-    src="/images/robust_3dhr.png" alt="ContactField" width="1000" style="margin-top: 15p"
+    src="/images/robust_3dhr.png" alt="robust_3dhr" width="80%"
   />
 </center>
 
@@ -34,7 +34,7 @@ in Neural Information Processing Systems (**NIPS**), Vancouver, Canada, 2024.\\
 \[[Paper](-)\]
 <center>
   <img
-    src="/images/ContactField2.gif" alt="ContactField" width="1000" style="margin-top: 15p"
+    src="/images/ContactField2.gif" alt="ContactField" width="80%" style="margin-top: 15p"
   />
 </center>
 
@@ -44,7 +44,7 @@ in Neural Information Processing Systems (**NIPS**), Vancouver, Canada, 2024.\\
 \[[Paper](-)\]
 <center>
   <img
-    src="/images/lever.png" alt="wacv" width="1000" style="margin-top: 15p"
+    src="/images/lever.png" alt="wacv" width="80%" style="margin-top: 15p"
   />
 </center>
 
@@ -54,7 +54,7 @@ in Proc. of IEEE Winter Conf. on Applications of Computer Vision (WACV), Hawaii,
 \[[Paper](-)\]
 <center>
   <img
-    src="/images/image_free.png" alt="image_free" width="1000" style="margin-top: 15p"
+    src="/images/image_free.png" alt="image_free" width="80%" style="margin-top: 15p"
   />
 </center>
 
