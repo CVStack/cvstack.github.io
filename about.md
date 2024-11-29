@@ -14,21 +14,20 @@ Email: <hansuforwork@gmail.com>
 
 ## Research Interests
 + Computer Vision and deep learning.
-+ Multi-view 3D object/scene reconstruction. 
++ 3D object/scene reconstruction. 
 + 3D human body/hand pose estimation.
 
-<!-- <div style="margin-bottom: 30px;">
-  <div style="margin-bottom: 15px;">
-    <strong>ContactField: Implicit Field Representation for Multi-Person Interaction Geometry</strong><br>
-    <strong>Hansol Lee</strong>, Tackgeun You, Hansoo Park, Woohyeon Shim, Sanghyeon Kim, Hwasup Lim, NeurIPS 2024 <a href="https://1drv.ms/b/s!AgxxptoT53MUh8lpacM5p1ZvFk7nRg?e=pOmVvd" style="text-decoration:none;">[Link]</a><br>
-  </div>
-  <div style="text-align: center;">
-    <img src='/images/ContactField2.gif' alt="Dynamic Appearance Demo" width="1000" style="margin-top: 15px;"/>
-  </div>
-</div> -->
-
 ## Researches
-### International Conference
++ **Robust 3D Human Reconstruction System from Sparse Views in Outdoor Environments**\\
+**Hansoo Park**\\
+in Under review, 2024.\\
+\[[Paper](-)\]
+<center>
+  <img
+    src="/images/robust_3dhr.png" alt="ContactField" width="1000" style="margin-top: 15p"
+  />
+</center>
+
 + **ContactField: Implicit Field Representation for Multi-Person Interaction Geometry**\\
 Hansol Lee, Tackgeun You, **Hansoo Park**, Woohyeon Shim, Sanghyeon Kim, Hwasup Lim\\
 in Neural Information Processing Systems (**NIPS**), Vancouver, Canada, 2024.\\
@@ -39,39 +38,25 @@ in Neural Information Processing Systems (**NIPS**), Vancouver, Canada, 2024.\\
   />
 </center>
 
-
-### International journal and arxiv
-<!-- + **Dynamic Appearance Modeling of Clothed 3D Human Avatars using a Single Camera**\\
-Hansol Lee, **Junuk Cha**, Yunhoe Ku, Jae Shin Yoon\*, Seungryul Baek\*.\\
-in arXiv 2023.\\
-Co-last authors*.\\
-\[[PDF](https://arxiv.org/pdf/2312.16842.pdf)\]
++ **Leveraging 2D Masked Reconstruction for Domain Adaptation of 3D Pose Estimation**\\
+**Hansoo Park**, Chanwoo Kim, Jihyeon Kim, Hoseong Cho, Bao Truong, Taehwan Kim and Seungryul Baek\\
+,in arXiv, 2024.\\
+\[[Paper](-)\]
 <center>
   <img
-    src="/media/images/publications/DynamicAppearance.gif" alt="reconstruction of dynamic appearance" width="80%"
+    src="/images/lever.png" alt="wacv" width="1000" style="margin-top: 15p"
   />
-</center> -->
+</center>
 
-## Internships
-<!-- <img
-  src="/media/images/internships/inria.png" alt="adobe" width="25%"
-/>
-Research Intern at Inria, Nice, France
-(Sep. 2024 - Nov. 2024)
-
-<img
-  src="/media/images/internships/adobe.png" alt="adobe" width="25%"
-/>
-Research Scientist/Engineer Intern at Adobe, San Jose, CA, USA
-(Feb. 2024 - May 2024) -->
-
-## Academic Activities
-<!-- + Program Committee (Reviewer) at AAAI 2025.
-+ Program Committee (Reviewer) at NIPS 2024.
-+ Program Committee (Reviewer) at BMVC 2024.
-+ Program Committee (Reviewer) at AAAI 2024.
-+ Program Committee (Emergency-Reviewer) at BMVC 2023.
-+ Program Committee (Reviewer) at AAAI 2023. -->
++ **Image-Free Domain Generalization via CLIP for 3D Hand Pose Estimation**\\
+Seongyeong Lee, **Hansoo Park**, Dong Uk Kim, Jihyeon Kim, Muhammadjon Boboev and Seungryul Baek\\
+in Proc. of IEEE Winter Conf. on Applications of Computer Vision (WACV), Hawaii, USA, 2023.\\
+\[[Paper](-)\]
+<center>
+  <img
+    src="/images/image_free.png" alt="image_free" width="1000" style="margin-top: 15p"
+  />
+</center>
 
 ## Patents
 + Dangerous Region Approaching Worker Detection and Stopping Machine Device Based on Thermal Images, 2023. Applicant : UNIST and Hyundai
