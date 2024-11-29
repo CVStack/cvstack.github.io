@@ -24,7 +24,7 @@ in Under review, 2024.\\
 \[[Paper](-)\]
 <center>
   <img
-    src="/images/robust_3dhr.png" alt="robust_3dhr" width="80%"
+    src="/images/robust_3dhr.png" alt="robust_3dhr" width="80%" style="margin-top: 15p"
   />
 </center>
 
@@ -40,7 +40,7 @@ in Neural Information Processing Systems (**NIPS**), Vancouver, Canada, 2024.\\
 
 + **Leveraging 2D Masked Reconstruction for Domain Adaptation of 3D Pose Estimation**\\
 **Hansoo Park**, Chanwoo Kim, Jihyeon Kim, Hoseong Cho, Bao Truong, Taehwan Kim and Seungryul Baek\\
-,in arXiv, 2024.\\
+in arXiv, 2024.\\
 \[[Paper](-)\]
 <center>
   <img
@@ -59,26 +59,25 @@ in Proc. of IEEE Winter Conf. on Applications of Computer Vision (WACV), Hawaii,
 </center>
 
 ## Patents
-+ Dangerous Region Approaching Worker Detection and Stopping Machine Device Based on Thermal Images, 2023. Applicant : UNIST and Hyundai
++ Camera extrinsic parameter optimization with rgb-ball wand, 2024. Applicant : KIST
 
 ## Projects
-+ Development of vision recognition module for ARTG control, Ministry of Oceans and Fisheries, Jun. 2023 ~ Dec. 2023
-    - Detecting object and predicting multi agent's future trajectory with velocity
++ Development of markerless motion capture system using sparse cameras, MCST Ministry of Culture, Sports and Tourism, 2023.11~2024.11
+    - Development of multi-camera calibration algorithms
+    - Development of 3d human reconstruction framework
+    - Generation of 3d human reconstruction training data through graphic programs
++ Development of 3D Pose and Mesh-based Action Recognition Technology, CJ AI Center, 2023.01~2023.08
+    - Generation and augmentation of unit motion samples from motion capture datasets
+    - Development of 3D mesh estimation and mesh-based action recognition algorithms
++ Development of control intent recognition technology for non-contact long-distance virtual touch panels that block the source of contact infections, Seoul Business Agency (Joint project with V-Touch Co., Ltd.), 2021.09~2022.03 
+    - Development of hand pose detection and posture classification algorithms using depth sensors
+    - Generation and augmentation of hand pose estimation training data through graphic programs
 
-+ Development of an optimized human detection system algorithm for production factory environments, Hyundai, Jun. 2022 ~ Dec. 2023
-    -  Detecting human segmentation masks and bounding boxes
-    -  Improving performance for corner cases such as occluded people
 
 ## Teaching Assistant & Mentoring
-+ Mentoring 
-    - 2nd Ulju AI 4.0 Studio at UNIST, Ulsan, South Korea, Mar. 2022 ~ Nov. 2022.
-
 + TA 
-    - Navy AI professionals training process TA, Jinhae, South Korea, 12 Sep. 2023.
-    - 5th AI Novatus Academia PBL (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea,  Mar. 2023 ~ Jun.2023.
     - 1st Gyungnam AI Novatus Academia (Computer Vision part) at UNIST AI Innovation Park, Masan, South Korea, 15 Apr. 2022.
     - 3rd AI Novatus Academia (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea, 25 Feb. 2022.
 
 + Lecture TA 
-    - 2023 Fall AI51601 Computer Vision.
     - 2021 Fall ITP11701 Introduction to AI Programming 2.
