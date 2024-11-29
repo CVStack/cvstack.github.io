@@ -24,7 +24,7 @@ Email: <hansuforwork@gmail.com>
 + **Robust 3D Human Reconstruction System from Sparse Views in Outdoor Environments**\\
 **Hansoo Park**\\
 in Under review, 2024.\\
-\[[Paper](-)\]
+<!-- \[[Paper](-)\] -->
 <center>
   <img
     src="/images/robust_3dhr.png" alt="robust_3dhr" width="80%" style="margin-top: 15p"
@@ -34,7 +34,7 @@ in Under review, 2024.\\
 + **ContactField: Implicit Field Representation for Multi-Person Interaction Geometry**\\
 Hansol Lee, Tackgeun You, **Hansoo Park**, Woohyeon Shim, Sanghyeon Kim, Hwasup Lim\\
 in Neural Information Processing Systems (**NIPS**), Vancouver, Canada, 2024.\\
-\[[Paper](-)\]
+<!-- \[[Paper](-)\] -->
 <center>
   <img
     src="/images/ContactField2.gif" alt="ContactField" width="80%" style="margin-top: 15p"
@@ -44,7 +44,7 @@ in Neural Information Processing Systems (**NIPS**), Vancouver, Canada, 2024.\\
 + **Leveraging 2D Masked Reconstruction for Domain Adaptation of 3D Pose Estimation**\\
 **Hansoo Park**, Chanwoo Kim, Jihyeon Kim, Hoseong Cho, Bao Truong, Taehwan Kim and Seungryul Baek\\
 in arXiv, 2024.\\
-\[[Paper](-)\]
+<!-- \[[Paper](-)\] -->
 <center>
   <img
     src="/images/lever.png" alt="wacv" width="80%" style="margin-top: 15p"
@@ -54,7 +54,7 @@ in arXiv, 2024.\\
 + **Image-Free Domain Generalization via CLIP for 3D Hand Pose Estimation**\\
 Seongyeong Lee, **Hansoo Park**, Dong Uk Kim, Jihyeon Kim, Muhammadjon Boboev and Seungryul Baek\\
 in Proc. of IEEE Winter Conf. on Applications of Computer Vision (WACV), Hawaii, USA, 2023.\\
-\[[Paper](-)\]
+<!-- \[[Paper](-)\] -->
 <center>
   <img
     src="/images/image_free.png" alt="image_free" width="80%" style="margin-top: 15p"
