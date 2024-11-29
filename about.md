@@ -16,7 +16,7 @@ Email: <hansuforwork@gmail.com>
 + B.S. in Computer Science, Chungbuk National University, South Korea, Mar. 2019 - Aug. 2021
 
 ## Research Interests
-+ Computer Vision and deep learning.
++ Computer Vision and Deep Learning.
 + 3D object/scene reconstruction. 
 + 3D human body/hand pose estimation.
 
