@@ -4,9 +4,12 @@ title: Hansoo Park
 ---
 
 ## About Me
-My name is **Hansoo Park**, a Computer Vision and Deep Learning Research Engineer. I am currently currently an intern researcher at xrHuman Lab, Korea Institute of Science and Technology(KIST). I obtained bachelor’s degree from Dept. of Computer science at Chungbuk National University [CBNU](https://software.cbnu.ac.kr/) and master’s degree in Artificial Intelligence at Ulsan National Institute of Science and Technology [UNIST](https://vision.unist.ac.kr/).
+My name is **Hansoo Park**, a Computer Vision and Deep Learning Research Engineer. I am currently currently an intern researcher at xrhuman Lab, Korea Institute of Science and Technology(KIST). I obtained bachelor’s degree from Dept. of Computer science at Chungbuk National University and master’s degree in Artificial Intelligence at Ulsan National Institute of Science and Technology.
 
 Email: <hansuforwork@gmail.com> 
+
+## Work Experiences
++ Research intern. in xrhuman lab, Korea Institute of Science and Technology, South Korea, Nov. 2023 ~ current 
 
 ## Education
 + M.S. in Artificial Intelligence, UNIST, South Korea, Sep. 2021 - Aug. 2023 
