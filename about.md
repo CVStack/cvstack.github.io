@@ -22,7 +22,7 @@ Email: <hansuforwork@gmail.com>
 
 ## Researches
 + **Robust 3D Human Reconstruction System from Sparse Views in Outdoor Environments**\\
-**Hansoo Park**, Soomin Kim, Bryan Heryanto, Hwasup Lim\\
+**Hansoo Park**, Soomin Kim, Bryan Heryanto and Hwasup Lim\\
 in Under review, 2024.\\
 <!-- \[[Paper](-)\] -->
 <center>
@@ -32,7 +32,7 @@ in Under review, 2024.\\
 </center>
 
 + **ContactField: Implicit Field Representation for Multi-Person Interaction Geometry**\\
-Hansol Lee, Tackgeun You, **Hansoo Park**, Woohyeon Shim, Sanghyeon Kim, Hwasup Lim\\
+Hansol Lee, Tackgeun You, **Hansoo Park**, Woohyeon Shim, Sanghyeon Kim and Hwasup Lim\\
 in Neural Information Processing Systems (**NIPS**), Vancouver, Canada, 2024.\\
 <!-- \[[Paper](-)\] -->
 <center>
