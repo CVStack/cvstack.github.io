@@ -4,7 +4,7 @@ title: Hansoo Park
 ---
 
 ## About Me
-My name is **Hansoo Park**, a Computer Vision and Deep Learning Research Engineer. I am currently currently an intern researcher at xrhuman Lab, Korea Institute of Science and Technology(KIST). I obtained bachelor’s degree from Dept. of Computer science at Chungbuk National University and master’s degree in Artificial Intelligence at Ulsan National Institute of Science and Technology.
+My name is **Hansoo Park**, a Computer Vision and Deep Learning Research Engineer. I am currently an intern researcher at xrhuman Lab, Korea Institute of Science and Technology(KIST). I obtained bachelor’s degree from Dept. of Computer science at Chungbuk National University and master’s degree in Artificial Intelligence at Ulsan National Institute of Science and Technology.
 
 Email: <hansuforwork@gmail.com> 
 
@@ -16,13 +16,13 @@ Email: <hansuforwork@gmail.com>
 + B.S. in Computer Science, Chungbuk National University, South Korea, Mar. 2019 - Aug. 2021
 
 ## Research Interests
-+ Computer Vision and Deep Learning.
-+ 3D object/scene reconstruction. 
-+ 3D human body/hand pose estimation.
++ Computer vision and Deep Learning.
++ 3D reconstruction. 
++ 3D pose estimation.
 
 ## Researches
 + **Robust 3D Human Reconstruction System from Sparse Views in Outdoor Environments**\\
-**Hansoo Park**\\
+**Hansoo Park**, Soomin Kim, Bryan Heryanto, Hwasup Lim\\
 in Under review, 2024.\\
 <!-- \[[Paper](-)\] -->
 <center>
