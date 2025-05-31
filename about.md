@@ -23,7 +23,7 @@ Email: <hansuforwork@gmail.com>
 ## Researches
 + **Robust 3D Human Reconstruction System from Sparse Views in Outdoor Environments**\\
 **Hansoo Park**, Soomin Kim, Bryan Heryanto and Hwasup Lim\\
-in IEEE ACCESS, 2025.\\
+in Under review, 2024.\\
 <!-- \[[Paper](-)\] -->
 <center>
   <img
