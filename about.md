@@ -65,16 +65,20 @@ in Proc. of IEEE Winter Conf. on Applications of Computer Vision (WACV), Hawaii,
 + Camera extrinsic parameter optimization with rgb-ball wand, 2024. Applicant : KIST
 
 ## Projects
-+ Development of markerless motion capture system using sparse cameras, MCST Ministry of Culture, Sports and Tourism, 2023.11~2024.11
++ Development of multi-camera based surrounding environmental recognition system, IITP, 2025.01~current
+    - Research on 3D reconstruction of surrounding view
+    - Development of multi-camera calibration algorithms
+    - Generation of training data for 3d scene reconstruction through simulator  
++ Development of markerless motion capture system using sparse cameras, MCST Ministry of Culture, Sports and Tourism, 2023.11~2024.12
     - Development of multi-camera calibration algorithms
     - Development of 3d human reconstruction framework
-    - Generation of 3d human reconstruction training data through graphic programs
+    - Generation of training data for 3d human reconstruction through graphic programs
 + Development of 3D Pose and Mesh-based Action Recognition Technology, CJ AI Center, 2023.01~2023.08
-    - Generation and augmentation of unit motion samples from motion capture datasets
     - Development of 3D mesh estimation and mesh-based action recognition algorithms
+    - Generation and augmentation of unit motion samples from motion capture datasets
 + Development of control intent recognition technology for non-contact long-distance virtual touch panels that block the source of contact infections, Seoul Business Agency (Joint project with V-Touch Co., Ltd.), 2021.09~2022.03 
     - Development of hand pose detection and posture classification algorithms using depth sensors
-    - Generation and augmentation of hand pose estimation training data through graphic programs
+    - Generation of training data for 3D hand pose estimation through graphic programs
 
 
 ## Teaching Assistant & Mentoring
