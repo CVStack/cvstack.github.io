@@ -16,14 +16,13 @@ Email: <hansuforwork@gmail.com>
 + B.S. in Computer Science, Chungbuk National University, South Korea, Mar. 2019 - Aug. 2021
 
 ## Research Interests
-+ Computer vision and Deep Learning.
++ 3D spatial intelligence.
 + 3D reconstruction. 
-+ 3D pose estimation.
 
 ## Researches
 + **Robust 3D Human Reconstruction System from Sparse Views in Outdoor Environments**\\
 **Hansoo Park**, Soomin Kim, Bryan Heryanto and Hwasup Lim\\
-in Under review, 2024.\\
+in IEEE ACCESS, 2025.\\
 <!-- \[[Paper](-)\] -->
 <center>
   <img
@@ -66,20 +65,19 @@ in Proc. of IEEE Winter Conf. on Applications of Computer Vision (WACV), Hawaii,
 
 ## Projects
 + Development of multi-camera based surrounding environmental recognition system, IITP, 2025.01~current
-    - Research on 3D reconstruction of surrounding view
-    - Development of multi-camera calibration algorithms
-    - Generation of training data for 3d scene reconstruction through simulator  
+    - Research on 3d scene reconstruction algorithm
+    - Development of multi-camera calibration framework
+    - Development of generation tool for training data of 3d scene reconstruction through simulator
 + Development of markerless motion capture system using sparse cameras, MCST Ministry of Culture, Sports and Tourism, 2023.11~2024.12
-    - Development of multi-camera calibration algorithms
-    - Development of 3d human reconstruction framework
-    - Generation of training data for 3d human reconstruction through graphic programs
+    - Research on 3d human reconstruction algorithm
+    - Development of multi-camera calibration framework
+    - Development of generation tool for training data of 3d human reconstruction through graphic program
 + Development of 3D Pose and Mesh-based Action Recognition Technology, CJ AI Center, 2023.01~2023.08
-    - Development of 3D mesh estimation and mesh-based action recognition algorithms
-    - Generation and augmentation of unit motion samples from motion capture datasets
+    - Research on 3D human motion estimation algorithm
+    - Development of generation tool for training data of 3d human motion through graphic program
 + Development of control intent recognition technology for non-contact long-distance virtual touch panels that block the source of contact infections, Seoul Business Agency (Joint project with V-Touch Co., Ltd.), 2021.09~2022.03 
-    - Development of hand pose detection and posture classification algorithms using depth sensors
-    - Generation of training data for 3D hand pose estimation through graphic programs
-
+    - Research on 3D hand pose estimation algorithm
+    - Development of generation tool for training data of 3D hand pose estimation through graphic program
 
 ## Teaching Assistant & Mentoring
 + TA 
